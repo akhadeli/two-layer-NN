@@ -1,0 +1,6 @@
+MNIST/
+.venv/
+__pycache__/
+*.zip
+*.docx
+*.pdf
